@@ -2,10 +2,13 @@
 
 The choice theme for VS Code transcendants.
 
-== Installation
+== Setup
 
-Packer: `use "nickbanderson/soynight.nvim"`
-
-== Usage
-
- vim.cmd[[colorcheme soynight]]
+Packer:
+ 
+....
+use{"nickbanderson/soynight.nvim",
+    config = function()
+      vim.cmd[[colorcheme soynight]]
+    end}
+....
