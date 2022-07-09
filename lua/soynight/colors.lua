@@ -23,6 +23,7 @@ return {
   yellow_orange = '#D7BA7D',
   purple = '#C586C0',
   magenta = '#D16D9E',
+  dark_purple = '#400040',
   cursor_fg = '#515052',
   cursor_bg = '#AEAFAD',
   error_red = '#F44747',
