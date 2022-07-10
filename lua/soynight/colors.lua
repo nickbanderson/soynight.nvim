@@ -8,6 +8,7 @@ return {
   search_blue = '#5e81ac',
   gray = '#808080',
   dark_gray = '#3e3e3e',
+  darker_gray = '#222222',
   context = '#606060',
   light_gray = '#c8c9c1',
   blue = '#569CD6',
