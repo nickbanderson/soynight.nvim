@@ -5,7 +5,7 @@ return {
   accent = '#BBBBBB',
   popup_back = '#2D2D30',
   search_orange = '#613214',
-  search_blue = '#5e81ac',
+  search_blue = '#5f00ff',-- '#4b67ac',
   gray = '#808080',
   dark_gray = '#3e3e3e',
   darker_gray = '#222222',
