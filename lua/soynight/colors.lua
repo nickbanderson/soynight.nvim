@@ -32,8 +32,8 @@ return {
   info_yellow = '#FFCC66',
   hint_blue = '#4FC1FF',
   ui_blue = '#264F78',
-  diff_add = '#587c0c',
-  diff_change = '#0c7d9d',
-  diff_delete = '#94151b',
-  diff_text = '#265478',
+  diff_add = 'darkgreen',--'#587c0c',
+  diff_change = 'blue',--'#0c7d9d',
+  diff_delete = 'darkred', -- '#94151b',
+  diff_text = 'darkblue', -- '#265478',
 }
