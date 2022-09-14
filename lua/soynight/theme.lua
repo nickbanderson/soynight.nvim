@@ -60,7 +60,7 @@ M.base = {
   MsgSeparator = { fg = c.fg, bg = c.bg },
   NonText = { fg = c.context },
   Normal = { fg = c.fg, bg = config.transparent_background and 'NONE' or c.bg },
-  NormalFloat = { bg = c.dark },
+  NormalFloat = { fg = c.purple, bg = c.dark },
   NormalNC = { fg = c.fg, bg = config.transparent_background and 'NONE' or c.bg },
   Number = { fg = c.orange },
   Operator = { fg = c.purple },
