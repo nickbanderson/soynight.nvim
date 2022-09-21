@@ -321,6 +321,7 @@ M.plugins = {
   TSUnderline = { style = 'underline' },
   TSVariable = { fg = c.light_blue },
   TSVariableBuiltin = { fg = c.light_blue },
+  TreesitterContextLineNumber = { fg = c.purple },
 }
 
 return M
