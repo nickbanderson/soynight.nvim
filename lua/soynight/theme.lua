@@ -186,6 +186,9 @@ M.plugins = {
   GitGutterAdd = { fg = c.diff_add },
   GitGutterChange = { fg = c.diff_change },
   GitGutterDelete = { fg = c.diff_delete },
+  GitPlogHash = { fg = c.light_green },
+  GitPlogAuthDate = { fg = c.gray, style = "italic" },
+  GitPlogRefs = { fg = c.light_blue },
   -- Indent-blankline
   IndentBlanklineChar = { fg = c.dark_gray },
   IndentBlanklineContextChar = { fg = c.context },
