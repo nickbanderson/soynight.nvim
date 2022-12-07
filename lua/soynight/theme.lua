@@ -246,6 +246,12 @@ M.plugins = {
   NeogitDiffContextHighlight = { fg = c.accent, bg = c.bg },
   NeogitDiffAddHighlight = { fg = c.diff_add, bg = c.dark },
   NeogitDiffDeleteHighlight = { fg = c.diff_delete, bg = c.dark },
+  -- Neorg
+  -- ["@namespace"] = { fg = c.lightblue },
+  ["@text.danger"] = { fg = c.red },
+  ["@text.strong"] = { fg = c.cyan },
+  ["@number"] = { fg = c.orange },
+  -- ["@"] = { fg = c.orange },
   -- Nvim-tree
   NvimTreeCursorLine = { bg = c.bg },
   NvimTreeExecFile = { fg = c.green },
