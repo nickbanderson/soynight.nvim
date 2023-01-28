@@ -104,7 +104,7 @@ M.base = {
   Type = { fg = c.yellow },
   Typedef = { fg = c.purple },
   Variable = { fg = c.cyan },
-  VertSplit = { fg = c.bg, bg = "purple" },
+  VertSplit = { fg = "purple", bg = c.bg },
   Visual = { bg = c.ui_blue },
   VisualNOS = { bg = c.dark },
   WarningMsg = { fg = c.error_red, bg = c.bg },
