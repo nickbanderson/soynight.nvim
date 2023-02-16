@@ -234,6 +234,7 @@ M.plugins = {
   LspReferenceRead = { bg = c.fg_gutter, style = 'bold' },
   LspReferenceText = { bg = c.fg_gutter, style = 'bold' },
   LspReferenceWrite = { bg = c.fg_gutter, style = 'bold' },
+  LspInlayHint = { fg = c.cyan, style = "italic" },
   -- Neogit
   NeogitBranch = { fg = c.magenta },
   NeogitRemote = { fg = c.purple },
